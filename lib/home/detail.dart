@@ -43,12 +43,14 @@ class _DetailBeritaState extends State<DetailBerita> {
                     children: [
                       const Row(
                         children: [
-                          CircleAvatar(),
+                          CircleAvatar(
+                            child: Text("K"),
+                          ),
                           SizedBox(width: 10,),
                           Column(
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
-                              Text("Adam Aditya", style: TextStyle(fontSize: 15, fontWeight: FontWeight.w600),),
+                              Text("Kelvin", style: TextStyle(fontSize: 15, fontWeight: FontWeight.w600),),
                               Text("data")
                             ],
                           )

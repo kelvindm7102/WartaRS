@@ -13,7 +13,7 @@ static const List<dynamic> terkini = [
     "title": "Komunitas Lokal Gelar Acara Penggalangan Dana untuk Penelitian Kanker",
     "date": "21 Agustus 2023",
     "thumb": "assets/images/fundraising.jpg",
-    "content": "Masyarakat di kota ABC berkumpul pada hari Sabtu untuk mengadakan acara penggalangan dana untuk penelitian kanker. Acara yang diselenggarakan di alun-alun kota ini menampilkan pertunjukan musik live, stan makanan, dan berbagai kegiatan untuk semua usia. Masyarakat berhasil mengumpulkan $10.000, yang akan disumbangkan kepada pusat penelitian kanker lokal. Acara ini tidak hanya mengumpulkan dana, tetapi juga meningkatkan kesadaran tentang pentingnya penelitian kanker dan perlunya dukungan terus-menerus dalam mencari obat. Para penyelenggara menyampaikan rasa terima kasih kepada semua yang telah berkontribusi dan berjanji untuk menjadikan acara ini sebagai acara tahunan."
+    "content": "Masyarakat di kota ABC berkumpul pada hari Sabtu untuk mengadakan acara penggalangan dana untuk penelitian kanker. Acara yang diselenggarakan di alun-alun kota ini menampilkan pertunjukan musik live, stan makanan, dan berbagai kegiatan untuk semua usia. Masyarakat berhasil mengumpulkan USD10.000, yang akan disumbangkan kepada pusat penelitian kanker lokal. Acara ini tidak hanya mengumpulkan dana, tetapi juga meningkatkan kesadaran tentang pentingnya penelitian kanker dan perlunya dukungan terus-menerus dalam mencari obat. Para penyelenggara menyampaikan rasa terima kasih kepada semua yang telah berkontribusi dan berjanji untuk menjadikan acara ini sebagai acara tahunan."
   },
   {
     "id": 3,
